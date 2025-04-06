@@ -1,0 +1,5 @@
+cria para mim uma arquitetura de de unidade central de processamento de 8 bits em linguagem de programação java
+
+me explica como a variavel valor é destinada na cpu
+
+quem é o autor dessa arquitetura de 8 bits
